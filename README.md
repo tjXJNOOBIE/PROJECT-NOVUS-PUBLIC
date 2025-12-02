@@ -1,9 +1,10 @@
-**View technical assesment of this project here[https://github.com/tjXJNOOBIE/PROJECT-NOVUS/blob/master/COMPREHENSIVE_TECH_ASSESSMENT.md]**
+
+**this repo is ca No Code repo, systems in this repo are privated and created. Trusted parties can access the code of Projcet Novus upon request**
 
 In development **solo** project with ambitious goals.
 
 Current buiit/in-progress systems: 
-- **_GlickoV2 Chess ELO_** – Unlimited **_match_** and **_player simulations_** for skill-based rating calculations.
+- **_GlickoV2 Chess ELO_** – Unlimited **_match_** and **_player simulations_** for skill-based rating calculations for any game.
   <details>
     <summary>Click to Show Rating Simulation GIF & Log</summary>
     <text>Fresh Player starts with default rating (1500) deviation (350) and volatility (0.06)</text>
